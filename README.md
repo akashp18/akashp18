@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 Profile Highlights<br>🔭 I'm currently working on: Solving real-world industrial chaos — from wiring up factory machines to iOS apps for live monitoring, to giving manufacturers a proper web presence they can actually manage themselves without touching code.<br><br>👯 I'm looking to collaborate on: High-performance SwiftUI or Flutter projects where the hard part isn't the UI — it's the BLE device on the other end that doesn't want to talk.<br><br>🤝 I'm looking for help with: Making an ancient philosophical text actually searchable — building a RAG pipeline for the Bhagavad Gita that understands meaning, not just keywords.<br><br>🌱 I'm currently learning: How far you can push self-hosted infrastructure — running production Django apps, PostgreSQL, and Nginx on Hetzner Cloud without paying for the big cloud tax.<br><br>💬 Ask me about: Getting iOS, Python, and industrial PLCs to work together in a system that wasn't designed to talk to anything — or how to ship software in a factory where downtime costs real money.<br><br>⚡ Fun fact: I once automated localization for 24 languages with a single script. Another time I wired a blow moulding machine to an iPad. The job description is always a surprise.
+🔭 I'm currently working on: Solving real-world industrial chaos — from wiring up factory machines to iOS apps for live monitoring, to giving manufacturers a proper web presence they can actually manage themselves without touching code.<br><br>👯 I'm looking to collaborate on: High-performance SwiftUI or Flutter projects where the hard part isn't the UI — it's the BLE device on the other end that doesn't want to talk.<br><br>🤝 I'm looking for help with: Making an ancient philosophical text actually searchable — building a RAG pipeline for the Bhagavad Gita that understands meaning, not just keywords.<br><br>🌱 I'm currently learning: How far you can push self-hosted infrastructure — running production Django apps, PostgreSQL, and Nginx on Hetzner Cloud without paying for the big cloud tax.<br><br>💬 Ask me about: Getting iOS, Python, and industrial PLCs to work together in a system that wasn't designed to talk to anything — or how to ship software in a factory where downtime costs real money.<br><br>⚡ Fun fact: I once automated localization for 24 languages with a single script. Another time I wired a blow moulding machine to an iPad. The job description is always a surprise.
 
 
 ## 🌐 Socials:
@@ -40,7 +40,7 @@
 **Design**<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=akashp18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akashp18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashp18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
